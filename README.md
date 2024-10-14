@@ -1,5 +1,5 @@
 # Rainbow-Option-Pricing
-Monte Carlo methods to price a type of Rainbow Option
+Monte Carlo methods to price a type of Rainbow Option. Please open Rainbow Option Pricing.ipynb for the results
 
 Pricing a Rainbow Option using Monte Carlo Methods
 
